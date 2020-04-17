@@ -5,7 +5,7 @@ import asyncio
 
 from discord.ext.commands import Bot
 
-TOKEN = 'NzAwNDY5OTM3MDI1NTgxMTI2.Xpja6w.Ofi6lm59wjpWWEjQWBMCFnZ1o5E'
+TOKEN = 'NzAwNDY5OTM3MDI1NTgxMTI2.XpkznA.-R4IORqjm13cBkMDcF8eGv8ih38'
 
 bot = Bot(command_prefix='!')
 
